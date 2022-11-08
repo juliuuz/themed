@@ -1,0 +1,21 @@
+{
+	"name": "@juliuuz/themed",
+	"version": "1.0.0",
+	"description": "Theme component",
+	"main": "index.js",
+	"keywords": [
+		"typescript",
+		"react",
+		"theme",
+		"styled-components"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name": "Juliuuz",
+		"email": "juliojaavier@gmail.com",
+		"url": "https://github.com/juliuuz"
+	},
+	"license": "none"
+}
