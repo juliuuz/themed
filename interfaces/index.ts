@@ -31,4 +31,9 @@ export interface ITheme {
 		secondary: string;
 		tertiary: string;
 	};
+	size: {
+		small: string;
+		medium: string;
+		large: string;
+	};
 };
