@@ -14,6 +14,7 @@ export interface ITheme {
 		secondary: string;
 	};
 	border: {
+		radius: string;
 		primary: string;
 		secondary: string;
 	};
